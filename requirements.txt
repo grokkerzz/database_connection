@@ -1,0 +1,4 @@
+psycopy2-binary
+hdfs==2.5.8
+cassandra-driver
+pyhive
